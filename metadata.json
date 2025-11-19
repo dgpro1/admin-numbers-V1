@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Supabase Sales Management Dashboard",
+  "description": "A comprehensive dashboard to manage sales numbers, products, statuses, and view analytics. This application is powered by React, TypeScript, and Supabase for real-time data synchronization.",
+  "requestFramePermissions": []
+}
